@@ -1,0 +1,143 @@
+[[P11Kit]]
+arch = "aarch64"
+git-tree-sha1 = "9a3f3f29c320f478cdc1c65de3f1134fac9fd5d1"
+os = "macos"
+
+    [[P11Kit.download]]
+    sha256 = "595cebb800fc44c1e68ffa78fff6eb0d654cbbc6828cb3864aadfb07eb51f13a"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.aarch64-apple-darwin.tar.gz"
+[[P11Kit]]
+arch = "aarch64"
+git-tree-sha1 = "0494c915cc1105d0ffbdd65443251e31bae57d63"
+libc = "glibc"
+os = "linux"
+
+    [[P11Kit.download]]
+    sha256 = "eac81a9611c032dac2bfced56da81fa1a27d12bbe8208b9696cabd24aa395fe4"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.aarch64-linux-gnu.tar.gz"
+[[P11Kit]]
+arch = "aarch64"
+git-tree-sha1 = "9d0fb2ac3518975f855bc1d538290ace0ae71cd4"
+libc = "musl"
+os = "linux"
+
+    [[P11Kit.download]]
+    sha256 = "eaca476d8d9de7b2818385eac1c7ff94295384b8cbe263e55a79d3ccc717c4de"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.aarch64-linux-musl.tar.gz"
+[[P11Kit]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "44dcb10486b84d1e7653353c05c0c98f494feacf"
+libc = "glibc"
+os = "linux"
+
+    [[P11Kit.download]]
+    sha256 = "c0b5de08ec3a24156f1e64d2939c730bdf23fbc5eeac2fc99374448ed0484e2f"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.armv6l-linux-gnueabihf.tar.gz"
+[[P11Kit]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "062217a8916d902462b33724709a00d70b8db3e0"
+libc = "musl"
+os = "linux"
+
+    [[P11Kit.download]]
+    sha256 = "253b98de20c5a4810b66c9076a93dc9b0a27c370eec58b28545e44c1fc2c3d81"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.armv6l-linux-musleabihf.tar.gz"
+[[P11Kit]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "149ac7f0eb8f1277f0d467ee95c7ef1cedac6f91"
+libc = "glibc"
+os = "linux"
+
+    [[P11Kit.download]]
+    sha256 = "bc593f9128b90b40b9608bcd0b4e8de4dbe9129aaad4d829d74fd0623b1a1806"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.armv7l-linux-gnueabihf.tar.gz"
+[[P11Kit]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f9fff6d4a539c8923045575291e4d132597b944b"
+libc = "musl"
+os = "linux"
+
+    [[P11Kit.download]]
+    sha256 = "c3526d05b7e2f304ea4747ba41067f2472f45b286035513d637288a34455bf6f"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.armv7l-linux-musleabihf.tar.gz"
+[[P11Kit]]
+arch = "i686"
+git-tree-sha1 = "4d25d23712ff2a7e4c01c2806e0d4f3400703d62"
+libc = "glibc"
+os = "linux"
+
+    [[P11Kit.download]]
+    sha256 = "957382ebae5fb6c35a85267f678b4ae0d4b3183283c702d79354e246fa5560f0"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.i686-linux-gnu.tar.gz"
+[[P11Kit]]
+arch = "i686"
+git-tree-sha1 = "67fc7078bef4dbb69f511808a89d37428f942553"
+libc = "musl"
+os = "linux"
+
+    [[P11Kit.download]]
+    sha256 = "0198477714e8cb4d8e88b3fad91ffdd287460e1c1dd006b1d29c884b282a44df"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.i686-linux-musl.tar.gz"
+[[P11Kit]]
+arch = "i686"
+git-tree-sha1 = "525e004349c335008fe9acba2581e5e1be30c44b"
+os = "windows"
+
+    [[P11Kit.download]]
+    sha256 = "182548c2216e3b72b783c481e619c850fbacf99986b3826f32753d09aba7b295"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.i686-w64-mingw32.tar.gz"
+[[P11Kit]]
+arch = "powerpc64le"
+git-tree-sha1 = "e8f8bbe0912623255c99300824fbba948a8e327e"
+libc = "glibc"
+os = "linux"
+
+    [[P11Kit.download]]
+    sha256 = "416204abbdc3c4a168b65174da02fd33ac56d836fcb9a43f173f53cd6875eede"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.powerpc64le-linux-gnu.tar.gz"
+[[P11Kit]]
+arch = "x86_64"
+git-tree-sha1 = "88a295797270884464e06bfd0813cec95ff83dae"
+os = "macos"
+
+    [[P11Kit.download]]
+    sha256 = "ee3e385836f9b420d648ae6b46b7005202562db86bfee905e7b67c805c36456e"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.x86_64-apple-darwin.tar.gz"
+[[P11Kit]]
+arch = "x86_64"
+git-tree-sha1 = "3fa2af49fb219370a07b1667eea40d08f92d34c4"
+libc = "glibc"
+os = "linux"
+
+    [[P11Kit.download]]
+    sha256 = "6aace3055eaaee212c85e5af0fd11fe0a9f539532dd5dc80d3b89825501c7322"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.x86_64-linux-gnu.tar.gz"
+[[P11Kit]]
+arch = "x86_64"
+git-tree-sha1 = "0cb6a5f05b6a10ee683d62ab43546f37066568ec"
+libc = "musl"
+os = "linux"
+
+    [[P11Kit.download]]
+    sha256 = "ab2a664abfb5aa69c71dc4ba241027e692637869f7a9205098958831bc036490"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.x86_64-linux-musl.tar.gz"
+[[P11Kit]]
+arch = "x86_64"
+git-tree-sha1 = "e871cf9e7400a50a6a65c9239ec4c98484bd3703"
+os = "freebsd"
+
+    [[P11Kit.download]]
+    sha256 = "372f19a9917294d655f4e0203e18ce36271dcc820ab9d9cc4e21b9acdd7ceff2"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.x86_64-unknown-freebsd.tar.gz"
+[[P11Kit]]
+arch = "x86_64"
+git-tree-sha1 = "b0fed67acd68ec89915ac5839824617a17275044"
+os = "windows"
+
+    [[P11Kit.download]]
+    sha256 = "1e581cf072d397e0e52339d224d7cf6f8a084c06e998c6c9a04d5405398ace16"
+    url = "https://github.com/JuliaBinaryWrappers/P11Kit_jll.jl/releases/download/P11Kit-v0.24.1+0/P11Kit.v0.24.1.x86_64-w64-mingw32.tar.gz"
